@@ -25,13 +25,13 @@ require (
 	github.com/hashicorp/go-checkpoint v0.5.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter v1.7.5
-	github.com/hashicorp/go-hclog v1.5.0
+	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-plugin v1.6.0
-	github.com/hashicorp/go-retryablehttp v0.7.5
-	github.com/hashicorp/go-slug v0.15.0
-	github.com/hashicorp/go-tfe v1.51.0
+	github.com/hashicorp/go-retryablehttp v0.7.7
+	github.com/hashicorp/go-slug v0.15.2
+	github.com/hashicorp/go-tfe v1.59.0
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/go-version v1.6.0
+	github.com/hashicorp/go-version v1.7.0
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/hcl/v2 v2.21.0
 	github.com/hashicorp/jsonapi v1.3.1
@@ -74,7 +74,7 @@ require (
 	golang.org/x/mod v0.16.0
 	golang.org/x/net v0.23.0
 	golang.org/x/oauth2 v0.18.0
-	golang.org/x/sys v0.19.0
+	golang.org/x/sys v0.22.0
 	golang.org/x/term v0.18.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.19.0
